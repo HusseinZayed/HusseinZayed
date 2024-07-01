@@ -1,19 +1,18 @@
-<img align="right" width="400" height="400" src="https://ibb.co/c8tFK6w"/>
+<img align="right" width="400" height="400" src="[https://ibb.co/c8tFK6w](https://avatars.githubusercontent.com/u/45989263?s=400&u=589fbb9900058f8a8484ddf3ff8726cd4abd1718&v=4)"/>
 
 
 # Hi, I'm Hussein :egypt:
 
-Android Developer | Software engineer :robot:. (In progress)
+Teaching Assistant | Data Scientist  :robot:.
 
-Student At Faculty Computer And Information :man_technologist:
 
 ## About me 
 
-:heart: Programming | :black_heart: Hip-Hop | :blue_heart: Al Ahly
+:heart: Programming | :black_heart: Data
 
+- 👨‍💻: Data Analysis || Data science || Artificial intelligence 
 - :earth_americas: I'm from Menoufia - Egypt
-- :video_game: I like to play video games
-- :gem: I love to customize everything lol
+- :gem: I love to customize everything
 
 
 ## Social media :mailbox_with_no_mail:
