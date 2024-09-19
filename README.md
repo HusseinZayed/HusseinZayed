@@ -11,7 +11,7 @@ Teaching Assistant | Data Scientist  :robot:.
 :heart: Programming | :black_heart: Data
 
 - 👨‍💻: Data Analysis || Data science || Artificial intelligence 
-- :earth_americas: I'm from Menoufia - Egypt
+- :earth_americas:Egypt
 - :gem: I love to customize everything
 
 
